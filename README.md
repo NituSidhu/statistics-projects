@@ -1,1 +1,1 @@
-# statistics-projects
+# Statistics Projects
